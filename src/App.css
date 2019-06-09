@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+.Form {
+  
+  /* max-width: 600px; */
+  /* margin: auto; */
+  border: 1px solid red;
+  margin: 20px;
+  padding: 20px;
+}
+ol {
+  display: inline-block;
+}
+/* COMPLETITION CLASS */
+.done {
+  text-decoration: line-through;
+  color: red;
+}
+.notDone {
+  color: green;
+  text-decoration: none;
+}
